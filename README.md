@@ -31,7 +31,7 @@ carthage update --platform ios
 
 1. create workspace "Test.xcworkspace"
 
-    Xcode: Click "Test"
+    XCode: Click "Test"
 
     XCode: File > Save As Workspace > Named > Select Project Directory
 
